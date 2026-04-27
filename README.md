@@ -74,16 +74,3 @@ Real-time prediction system
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
-
-📜 License
-
-This project is open-source and available under the MIT License.
-
-👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/your-username
-
-⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
